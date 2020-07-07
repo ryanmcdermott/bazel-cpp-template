@@ -6,7 +6,7 @@ This project is a simple starter template for a C++ project that uses the [Bazel
 
 ## Installation
 
-First, ensure that you have [installed Bazel](https://docs.bazel.build/versions/3.2.0/install.html).
+First, ensure that you have [installed Bazel](https://docs.bazel.build/versions/3.2.0/install.html). Then run the following:
 
 ```
 git clone https://github.com/ryanmcdermott/bazel-cpp-template
